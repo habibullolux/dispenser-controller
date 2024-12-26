@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# dispenser-controller
-This project is a system for automating the control of multiple dispensers using Arduino and Adafruit Motor Shields. It integrates with a UTNServer ProMax hub to connect multiple Arduinos to a central laptop, enabling seamless management through a Python-based command orchestrator.
-=======
 # Dispenser Controller System
 
 ## Short Description
@@ -59,4 +55,3 @@ This project automates the control of multiple dispensers using Arduino and Adaf
     - Run the `dispenser_controller.py` script.
     - Use the script to manage and monitor dispensers.
     
->>>>>>> master
